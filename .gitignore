@@ -1,6 +1,6 @@
 .idea/
-./pdfs/**/*.pdf
-./pdfs/**/*.html
+*.pdf
+*.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
